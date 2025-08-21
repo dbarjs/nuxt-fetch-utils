@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-fetch-utils-playground",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.3"
+  }
+}

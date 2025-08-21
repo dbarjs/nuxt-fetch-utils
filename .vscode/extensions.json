@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "naumovs.color-highlight",
+    "nuxt.mdc",
+    "antfu.pair-diff",
+    "antfu.iconify",
+    "bradlc.vscode-tailwindcss",
+    "lokalise.i18n-ally",
+    "Vue.volar"
+  ]
+}
